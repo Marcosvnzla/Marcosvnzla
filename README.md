@@ -17,8 +17,8 @@
 ### Languages and tools:
 
 <p>
-  <a href="https://github.com/jafjdev/">
-    <img width="55%" align="right" alt="Jafjdev's github stats" src="https://github-readme-stats.vercel.app/api?username=Marcosvnzla&show_icons=true&theme=radical&count_private=true" />
+  <a href="https://github.com/Marcosvnzla/">
+    <img width="55%" align="right" alt="Marcosvnzla's github stats" src="https://github-readme-stats.vercel.app/api?username=Marcosvnzla&show_icons=true&theme=radical&count_private=true" />
   </a>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
