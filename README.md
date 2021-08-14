@@ -12,7 +12,7 @@
 - 👯 I'm looking forward to collaborate with you in web development.
 - 🤔 Ask me about React, CSS, its my main skill at this moment, but i'm also up to help with Javascript and Firebase!
 - 📫 Get in touch with me: marcosdavidulloa@gmail.com
-- ⚡ Fun fact: I love playing Yu-Gi-Oh TCG 😅.
+- ⚡ Fun fact: I recently got hooked on building custom keyboards 😅.
 
 ### Languages and tools:
 
