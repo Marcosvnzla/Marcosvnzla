@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/marcos_0796/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Marcosvnzla)
 
-- 💻 I am currently stuffing my brain with web development technologies like Reac, Javascript, etc.
+- 💻 I am currently stuffing my brain with web development technologies like React, Javascript, etc.
 - 📚 Learning about how to make interfaces look beautiful and be functional.
 - 💪🏼 Future Goals: Become a Systems Analist and never stop learning.
 - 👯 I'm looking forward to collaborate with you in web development.
